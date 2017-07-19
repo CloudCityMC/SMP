@@ -6,7 +6,7 @@
 2) Death wishes are strictly forbidden. Saying terms such as, but not limited to, "kys", "go die", result in a mute.<br/>
 3) Racism/Sexual misconduct is not allowed. Saying stuff like "omg i hate girls, too fat" will result in mute. This is mostly assumed but severe conducts are immediately muted.<br/>
 4) Bypassing your mute in any way (namely irc) will result in a tempban in place of the mute time. E.g. if you were muted for 10 minutes and you bypassed, your remaining time will be as a tempban.<br/>
-5) Bullying is not allowed. Being mean to someone specifically in chat will result in a mute.<br/>
+5) Bullying is not allowed. Being mean to someone specifically in chat will result in a mute. No punishments will be given if players are just joking around with one another.<br/>
 6) Do not spam the chat. Saying 3 messages in the span of 5 seconds counts as spam.<br/>
 7) Disrespecting staff in any way, such as accusing of abuse, hacking, breaking rules, etc, will result in a mute at the staff's discretion.<br/>
 8) NO ADVERTISING! If an IP is said in chat, the mute AND ban chart will be bypassed and a ban will be issued.<br/>
@@ -40,16 +40,13 @@ Eighth+ Mute Offense | See Ban Chart
 
 Ban Offense | Length of Ban
 ---------|-------
-First Ban Offense | 3h ban
-Second Ban Offense | 6h ban
-Third Ban Offense | 12h ban
-Fourth Ban Offense | 18h ban
-Fifth Ban Offense | 24h ban
-Sixth Ban Offense | 30h ban
-Seventh Ban Offense | 36h ban
-Eighth Ban Offense | 42h ban
+First Ban Offense | 1h ban
+Second Ban Offense | 3h ban
+Third Ban Offense | 6h ban
+Fourth Ban Offense | 12h ban
+Fifth Ban Offense | 18h ban
+Sixth Ban Offense | 24h ban
+Seventh Ban Offense | 32h ban
+Eighth Ban Offense | 48h ban
 Ninth Ban Offense | 48h ban
-Tenth Ban Offense | 54h ban
-Eleventh Ban Offense | 60h ban
-Twelfth Ban Offense | 66h ban
-Thirteenth Ban Offense | 72h ban
+Tenth Ban Offense | Permenant ban
