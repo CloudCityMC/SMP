@@ -12,6 +12,9 @@ IP: Soon!
      <td><a href="rules">View the Rules</a></td>
    </tr>
    <tr>
+     <td><a href="UsefulCommands">Useful Commands</a></td>
+   </tr>
+   <tr>
      <td><a href="CHANGELOG">Changelog</a></td>
    </tr>
   <tr>
