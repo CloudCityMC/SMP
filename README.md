@@ -20,4 +20,7 @@ IP: Soon!
   <tr>
     <td><a href="http://github.com/RileyCraft/main/issues/new">Report an Issue</a></td>
   </tr>
+  <tr>
+    <td><a href="ItemPrices">Item Prices Index</a></td>
+  </tr>
 </table>
