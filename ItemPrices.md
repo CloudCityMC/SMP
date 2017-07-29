@@ -44,14 +44,14 @@ Wooden Hoe | 290 | $24 | No
 Wooden Sword | 268 | $20 | No
 Wood Door | 324 | $16 | No
 Wooden Pressure Plate | 72 | $16 | No
-Stone Pickaxe | 274 | $11
-Stone Shovel | 273 | $9
-Stone Axe | 275 | $11
-Stone Sword | 272 | $6
-Stone Hoe | 291 | $10
-Stone | 1 | $1
-Cobblestone | 4 | $1
-Mossy Cobblestone | 48 | $9
+Stone Pickaxe | 274 | $11 | No
+Stone Shovel | 273 | $9 | No
+Stone Axe | 275 | $11 | No
+Stone Sword | 272 | $6 | No
+Stone Hoe | 291 | $10 | No
+Stone | 1 | $1 | No
+Cobblestone | 4 | $1 | No
+Mossy Cobblestone | 48 | $9 | No
 Iron Pickaxe | 257 | $776 | No
 Iron Shovel | 256 | $264 | No
 Iron Axe | 258 | $776 | No
@@ -134,10 +134,10 @@ String | 287 | $12 | No
 Cactus | 81 | $8 | No
 Gunpowder | 289 | $192 | No
 Rails | 66 | $96 | No
-Egg | 344 | $32
+Egg | 344 | $32 | No
 Dandelion | 37 | $16 | No
 Obsidian | 49 | $64 | No
-Dirt | 3 | $1 No
+Dirt | 3 | $1 | No
 Lever | 69 | $5 | No
 Cake | 354 | $216 | No
 Pumpkin | 86 | $144 | No
