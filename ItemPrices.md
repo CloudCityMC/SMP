@@ -130,9 +130,9 @@ Sand | 12 | $1 | No
 Bookshelf | 47 | $528 | No
 Jack-o-lantern | 91 | $153 | No
 Oak Boat | 333 | $40 | No
-String | 287 | $12 | No
+String | 287 | $12 | Yes
 Cactus | 81 | $8 | No
-Gunpowder | 289 | $192 | No
+Gunpowder | 289 | $192 | Yes
 Rails | 66 | $96 | No
 Egg | 344 | $32 | No
 Dandelion | 37 | $16 | No
@@ -146,7 +146,7 @@ Clock | 347 | $8256 | No
 Sign | 323 | $17 | No
 Saddle | 329 | $192 | No
 TNT | 46 | $964 | Yes
-Apple | 260 | $128 | No
+Apple | 260 | $128 | Yes
 Redstone Repeater | 356 | $203 | No
 Clay | 82 | $64 | No
 Stick | 280 | $4 | No
@@ -171,6 +171,8 @@ Ender Pearl | 368 | $1024 | Yes
 Exp Bottle | 384 | $256 | Yes
 Shield | 442 | $296 | Yes
 Name Tag | 421 | $192 | Yes
+Nether Star | 399 | $139264 | Yes
+Ghast Tear | 370 | $4096 | Yes
 13 Disc | 2256 | $2048 | No
 Cat Disc | 2257 | $2048 | No
 Blocks Disc | 2258 | $2048 | No
