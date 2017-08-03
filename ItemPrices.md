@@ -173,6 +173,9 @@ Shield | 442 | $296 | Yes
 Name Tag | 421 | $192 | Yes
 Nether Star | 399 | $139264 | Yes
 Ghast Tear | 370 | $4096 | Yes
+Cooked Chicken | 366 | $64 | Yes
+Netherrack | 87 | $1 | No
+Emerald Block | 133 | $147456 | Yes
 13 Disc | 2256 | $2048 | No
 Cat Disc | 2257 | $2048 | No
 Blocks Disc | 2258 | $2048 | No
