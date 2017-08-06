@@ -176,6 +176,24 @@ Ghast Tear | 370 | $4096 | Yes
 Cooked Chicken | 366 | $64 | Yes
 Netherrack | 87 | $1 | No
 Emerald Block | 133 | $147456 | Yes
+Nether Wart | 372 | $1536 | No
+Wooden Trapdoor | 96 | $1536 | No
+Beetroot | 434 | $64 | No
+Beetroot Seed | 435 | $16 | No
+Potato | 392 | $64 | No
+Carrot | 391 | $64 | No
+Raw Rabbit | 411 | $64 | No
+Gold Nugget | 371 | $227 | No
+Rotten Flesh | 367 | $32 | No
+Spider Eye | 375 | $128 | No
+Iron Horse Armor | 417 | $2048 | No
+Gold Horse Armor | 418 | $16384 | No
+Diamond Horse Armor | 419 | $65536 | No
+End Crystal | 426 | $5895 | No
+Shulker Shell | 450 | $2048 | No
+Lilypad | 111 | $16 | No
+Iron Trapdoor | 167 | $2048 | No
+Raw Beef | 363 | $64 | No
 13 Disc | 2256 | $2048 | No
 Cat Disc | 2257 | $2048 | No
 Blocks Disc | 2258 | $2048 | No
