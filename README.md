@@ -2,9 +2,10 @@
 
 IP: mc.rileycraft.tk
 
-Hop on IRC!
+[Chat on IRC!](irc)
 
-### Report ANY bugs or exploits in the [issues](http://github.com/chewcraft/cubed/issues/new)!
+### Report ANY bugs or exploits in the [issues](http://github.com/rileycraft/rileycraft.github.io/issues/new)!
+#### You WILL be rewarded.
 
 <table>
   <tr>
@@ -20,7 +21,7 @@ Hop on IRC!
     <td><a href="CHANGELOG">Changelog</a></td>
   </tr>
   <tr>
-    <td><a href="http://github.com/RileyCraft/main/issues/new">Report an Issue</a></td>
+    <td><a href="http://github.com/RileyCraft/rileycraft.github.io/issues/new">Report an Issue</a></td>
   </tr>
   <tr>
     <td><a href="ItemPrices">Item Prices Index</a></td>
