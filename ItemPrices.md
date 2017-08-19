@@ -194,6 +194,25 @@ Shulker Shell | 450 | $2048 | No
 Lilypad | 111 | $16 | No
 Iron Trapdoor | 167 | $2048 | No
 Raw Beef | 363 | $64 | No
+Flint | 318 | $4 | No
+Raw Porkchop | 319 | $64 | No
+Raw Mutton | 423 | $64 | No
+Raw Chicken | 365 | $64 | No
+Cooked Mutton | 424 | $64 | No
+Shears | 359 | $512 | No
+Tripwire Hook | 131 | $134 | No
+Spruce Boat | 444 | $40 | No
+Birch Boat | 445 | $40 | No
+Acacia Boat | 447 | $40 | No
+Dark Oak Boat | 448 | $40 | No
+Jungle Boat | 446 | $40 | No
+Magma Block | 213 | $128 | No
+Sandstone Stairs | 128 | $6 | No
+Chorus Fruit | 432 | $192 | No
+Melon | 360 | $16 | No
+Melon Block | 103 | $144 | No
+Melon Seed | 362 | $16 | Np
+Poisonous Potatoes | 394 | $64 | No
 13 Disc | 2256 | $2048 | No
 Cat Disc | 2257 | $2048 | No
 Blocks Disc | 2258 | $2048 | No
