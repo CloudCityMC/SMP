@@ -1,6 +1,30 @@
 # Item Prices
 
-(I suggest your browser's Find feature)
+<style>
+#findblocks {
+    background-image: url('https://www.w3schools.com/css/searchicon.png');
+    background-position: 10px 12px;
+    background-repeat: no-repeat;
+    width: 100%;
+    font-size: 16px;
+    padding: 12px 20px 12px 40px;
+    border: 1px solid #ddd;
+    margin-bottom: 12px;
+}
+#blocks {
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid #ddd;
+    font-size: 18px;
+}
+#blocks th, #blocks td {
+    text-align: left;
+    padding: 12px;
+}
+#block tr {
+    border-bottom: 1px solid #ddd;
+}
+</style>
 
 <script>
 function lookWords() {
@@ -13,7 +37,7 @@ function lookWords() {
 
   // Loop through all table rows, and hide those who don't match the search query
   for (i = 0; i < tr.length; i++) {
-    td = tr[i].getElementsByTagName("td")[1];
+    td = tr[i].getElementsByTagName("td")[0];
     if (td) {
       if (td.innerHTML.toUpperCase().indexOf(filter) > -1) {
         tr[i].style.display = "";
