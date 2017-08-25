@@ -8,6 +8,7 @@ Changes:
 
 Date | Changes
 -----|------
+24 August | Added an Anti-Grief plugin. Sorry/
 19 August | [19 new sellable items](https://github.com/RileyCraft/rileycraft.github.io/compare/f04490b168ae...2de23e904a89).<br/>[Infinity Enchantment is now buyable](https://github.com/RileyCraft/rileycraft.github.io/compare/bcf6a2af364a...f04490b168ae).
 8 August | Elytra is now repairable via a mcMMO repair anvil.
 7 August | Removed the Anti-cheat :/. Fixed Scams! Added Flint to /sell.
