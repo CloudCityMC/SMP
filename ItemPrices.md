@@ -1,59 +1,16 @@
 # Item Prices
 
-<style>
-#findblocks {
-    background-image: url('https://www.w3schools.com/css/searchicon.png');
-    background-position: 10px 12px;
-    background-repeat: no-repeat;
-    width: 100%;
-    font-size: 16px;
-    padding: 12px 20px 12px 40px;
-    border: 1px solid #ddd;
-    margin-bottom: 12px;
-}
-#blocks {
-    border-collapse: collapse;
-    width: 100%;
-    border: 1px solid #ddd;
-    font-size: 18px;
-}
-#blocks th, #blocks td {
-    text-align: left;
-    padding: 12px;
-}
-#block tr {
-    border-bottom: 1px solid #ddd;
-}
-</style>
+<link rel="stylesheet" href="/searchboxes.css">
+<script src="/searchboxes.js"></script>
 
-<script>
-function lookWords() {
-  // Declare variables
-  var input, filter, table, tr, td, i;
-  input = document.getElementById("findblocks");
-  filter = input.value.toUpperCase();
-  table = document.getElementById("blocks");
-  tr = table.getElementsByTagName("tr");
-
-  // Loop through all table rows, and hide those who don't match the search query
-  for (i = 0; i < tr.length; i++) {
-    td = tr[i].getElementsByTagName("td")[0];
-    if (td) {
-      if (td.innerHTML.toUpperCase().indexOf(filter) > -1) {
-        tr[i].style.display = "";
-      } else {
-        tr[i].style.display = "none";
-      }
-    }
-  }
-}
-</script>
-
-<input type="text" id="findblocks" onkeyup="lookWords()" placeholder="Search for items..">
+<input type="text" id="findblocks" onkeyup="searchByName()" placeholder="Search by item name">
+<input type="text" id="findids" onkeyup="searchByID()" placeholder="ID">
+<input type="text" id="findprice" onkeyup="searchByPrice()" placeholder="Price">
+<input type="text" id="findbuy" onkeyup="searchByBuy()" placeholder="Buyable">
 
 {:#blocks}
 Item Name | Item ID | Price | Buyable?
---------|--------|-------|------
+------|--|--|
 Oak Log | 17 | $32 | No
 Spruce Log | 17:1 | $32 | No
 Birch Log | 17:2 | $32 | No
