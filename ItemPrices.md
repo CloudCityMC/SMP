@@ -10,7 +10,7 @@
 
 {:#blocks}
 Item Name | Item ID | Price | Buyable?
-------|--|--|
+------|--|--|--
 Oak Log | 17 | $32 | No
 Spruce Log | 17:1 | $32 | No
 Birch Log | 17:2 | $32 | No
@@ -119,7 +119,7 @@ Brown Mushroom | 40 | $32 | No
 Torch | 50 | $9 | No
 Grass | 2 | $2 | No
 Snowball | 332 | $1 | No
-Slimeball | 341 | $32 | No
+Slimeball | 341 | $32 | Yes
 Oak Fence | 85 | $13 | No
 Bricks | 45 | $64 | No
 Noteblock | 25 | $128 | No
@@ -182,7 +182,7 @@ Nether Star | 399 | $139264 | Yes
 Ghast Tear | 370 | $4096 | Yes
 Cooked Chicken | 366 | $64 | Yes
 Netherrack | 87 | $1 | No
-Emerald Block | 133 | $147456 | Yes
+Emerald Block | 133 | $147456 | No
 Nether Wart | 372 | $1536 | No
 Wooden Trapdoor | 96 | $1536 | No
 Beetroot | 434 | $64 | No
