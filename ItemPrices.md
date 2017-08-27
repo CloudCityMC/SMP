@@ -220,6 +220,71 @@ Melon | 360 | $16 | No
 Melon Block | 103 | $144 | No
 Melon Seed | 362 | $16 | Np
 Poisonous Potatoes | 394 | $64 | No
+Nether Quartz | 406 | $256 | No
+Oak Wood Stairs | 53 | $12 | No
+Cobblestone Stairs | 67 | $1 | No
+Brick Stairs | 108 | $96 | No
+Stone Brick Stairs | 109 | $1 | No
+Nether Brick Stairs | 114 | $6 | No
+Spruce Wood Stairs | 134 | $12 | No
+Birch Wood Stairs | 135 | $12 | No
+Jungle Wood Stairs | 136 | $12 | No
+Quartz Stairs | 156 | $1536 | No
+Acacia Wood Stairs | 163 | $12 | No
+Dark Oak Wood Stairs | 164 | $12 | No
+Red Sandstone Stairs | 180 | $6 | No
+Purpur Stairs | 203 | $288 | No
+Jungle Fence | 190 | $13 | No
+Jungle Fence Gate | $185 | $32 | No
+Stone Bricks | 98 | $1 | No
+Rabbit Hide | 415 | $16 | No
+Purpur Block | 201 | $192 | No
+Acacia Fence | 192 | $13 | No
+White Carpet | 171 | $32 | No
+Orange Carpet | 171:1 | $42 | No
+Magenta Carpet | 171:2 | $42 | No
+Light Blue Carpet | 171:3 | $42 | No
+Yellow Carpet | 171:4 | $42 | No
+Lime Carpet | 171:5 | $50 | No
+Pink Carpet | 171:6 | $42 | No
+Gray Carpet | 171:7 | $53 | No
+Light Gray Carpet | 171:8 | $42 | No
+Cyan Carpet | 171:9 | $322 | No
+Purple Carpet | 171:10 | $325 | No
+Blue Carpet | 171:11 | $608 | No
+Brown Carpet | 171:12 | $117 | No
+Green Carpet | 171:13 | $37 | No
+Red Carpet | 171:14 | $42 | No
+Black Carpet | 171:15 | $42 | No
+Cobblestone Wall | 139 | $1 | No
+Mossy Stone Brick | 98:1 | $9 | No
+End Stone Bricks | 206 | $1 | No
+Iron Bars | 101 | $96 | No
+Sandstone Slab | 44:1 | $2 | No
+Bricks Slab | 44:4 | $32 | No
+Nether Brick Slab | 44:6 | $2 | No
+Quartz Slab | 44:7 | $512 | No
+Oak Wood Slab | 126 | $4 | No
+Spruce Wood Slab | 126:1 | $4 | No
+Birch Wood Slab | 126:2 | $4 | No
+Jungle Wood Slab | 126:3 | $4 | No
+Acacia Wood Slab | 126:4 | $4 | No
+Dark Oak Wood Slab | 126:5 | $4 | No
+Red Sandstone Slab | 125:6 | $2 | No
+Purpur Slab | 205 | $96 | No
+Block of Quartz | 155 | $1024 | No
+Powered Rail | 27 | $2059 | No
+Detector Rail | 28 | $267 | No
+Activator Rail | 157 | $268 | No
+Spruce Door | 427 | $16 | No
+Birch Door | 428 | $16 | No
+Jungle Door | 429 | $16 | No
+Acacia Door | 430 | $16 | No
+Dark Oak Door | 431 | $16 | No
+Cookie | 357 | $22 | No
+Lilac | 175:1 | $32 | No
+Tall Grass | 31:1 | $1 | No
+Magma Cream | 378 | $800 | No
 13 Disc | 2256 | $2048 | No
 Cat Disc | 2257 | $2048 | No
 Blocks Disc | 2258 | $2048 | No
