@@ -8,6 +8,7 @@ Changes:
 
 Date | Changes
 -----|------
+27 August | You can no longer use Slimefun on plots. Phew!
 26 August | [65 new sellable items](https://github.com/RileyCraft/rileycraft.github.io/compare/cc2648b43873...14f5a75570c2)
 24 August | Added an Anti-Grief plugin. Sorry/
 19 August | [19 new sellable items](https://github.com/RileyCraft/rileycraft.github.io/compare/f04490b168ae...2de23e904a89).<br/>[Infinity Enchantment is now buyable](https://github.com/RileyCraft/rileycraft.github.io/compare/bcf6a2af364a...f04490b168ae).
