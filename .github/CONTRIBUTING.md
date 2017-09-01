@@ -13,6 +13,8 @@ Rules for all types of posts:
 
 ## GitHub Issues
 
+### Posting a Suggestion in the issues will make it CLOSED IMMEDIANTLY! Please use our new [feedback site](http://feedback.rileycraft.tk)
+
 Rules for posting an Issue on GitHub:
 
 1. This Issue Section is ONLY for RileyCraft related issues, issues about other servers should not be posted here.
@@ -21,4 +23,4 @@ Rules for posting an Issue on GitHub:
 4. Do not post your issue more than once, this is considered spam and does not benefit our community in any way. Do not repost your issue if it was closed either.
 5. Give us all available information right away, it may be a bit of time-wasting for us to keep asking for more info, and this includes any information to reproduce your issue step-by-step.
 
-Your Issue will be CLOSED WITHOUT WARNING if we think you violated these Rules.
+Your Issue will be CLOSED AND LOCKED WITHOUT WARNING if we think you violated these Rules.
