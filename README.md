@@ -24,6 +24,12 @@ IP: mc.rileycraft.tk
     <td><a href="http://github.com/RileyCraft/rileycraft.github.io/issues/new">Report an Issue</a></td>
   </tr>
   <tr>
+    <td><a href="http://feedback.rileycraft.tk">Suggest Something!</a></td>
+  </tr>
+  <tr>
+    <td><a href="http://store.rileycraft.tk">Webstore</a></td>
+  </tr>
+  <tr>
     <td><a href="ItemPrices">Item Prices Index</a></td>
   </tr>
   <tr>
