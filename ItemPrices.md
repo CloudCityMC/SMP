@@ -39,7 +39,7 @@ Acacia Sapling | 6:4 | $32 | Yes
 Dark Oak Sapling | 6:5 | $32 | Yes
 Stone Button | 77 | $1 | No
 Arrow | 262 | $14 | No
-Leather | 334 | $64 | No
+Leather | 334 | $64 | Yes
 Leather Helmet | 298 | $320 | No
 Leather Chestplate | 299 | $512 | No
 Leather Leggings | 300 | $448 | No
