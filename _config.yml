@@ -1,8 +1,5 @@
-theme: jekyll-theme-slate
+theme:          jekyll-theme-slate
 
-title: RileyCraft
-description: Welcome to RileyCraft!
+title:          RileyCraft
+description:    Welcome to RileyCraft!
 show_downloads: false
-
-gems:
-  - jekyll-mentions

@@ -18,6 +18,7 @@ function searchByName() {
     }
   }
 }
+
 function searchByID() {
   // Declare variables
   var input, filter, table, tr, td, i;
