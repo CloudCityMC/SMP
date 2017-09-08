@@ -20,7 +20,7 @@ function sortTable() {
       //check if the two rows should switch place:
       if (x.innerHTML.toLowerCase() > y.innerHTML.toLowerCase()) {
         //if so, mark as a switch and break the loop:
-        shouldSwitch= true;
+        shouldSwitch = true;
         break;
       }
     }
