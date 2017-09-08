@@ -1,9 +1,10 @@
 # Item Prices
 
-<link rel="stylesheet" href="/searchboxes.css">
-<script src="/searchboxes.js"></script>
+<link rel="stylesheet" href="assets/css/searchboxes.css">
+<script src="/assets/js/searchboxes.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 
-<input type="text" id="findblocks" onkeyup="searchByName()" placeholder="Search by item name">
+<input type="text" id="findblocks" onkeyup="searchByName()" placeholder="Search by Item">
 <input type="text" id="findids" onkeyup="searchByID()" placeholder="ID">
 <input type="text" id="findprice" onkeyup="searchByPrice()" placeholder="Price">
 <input type="text" id="findbuy" onkeyup="searchByBuy()" placeholder="Buyable">
@@ -297,3 +298,5 @@ Strad Disc | 2264 | $2048 | No
 Ward Disc | 2265 | $2048 | No
 11 Disc | 2266 | $2048 | No
 Wait Disc | 2267 | $2048 | No
+
+<script src="/assets/js/sorttable.js"></script>
