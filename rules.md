@@ -43,14 +43,13 @@ Discussing other servers without saying their name is okay. "Wanna play mine-str
 </details>
 </details>
 
-<details><summary>No impersonating Staff or Youtubers</summary>
+<details><summary>No Impersonating Staff or Youtubers</summary>
 Pretending you are someone else will result in a ban.
 </details>
 
 <details><summary>No selling stuff outside of the server.</summary>
 (like alts, your merch, etc) will bypass the ban chart and result in a permanent ban.
 </details>
-
 
 ## Playing Rules
 
@@ -66,6 +65,11 @@ If a player enters combat (a player attacks another player, or vice versa) neith
 
 <details><summary>Rules about Alting</summary>
 Using an alt to help with your main account (e.g. using an alt to mine stuff while your main idles at a farm) is against the rules. Using an alt is allowed if no interaction between the main and the alternate accounts occurs. If caught, the alt will be banned permanently.
+</details>
+
+<details><summary>No bypassing the Anti-AFK Timer</summary>
+If the Player is AFK, they must not bypass the AFK timer in any way.
+This also bans Minechat because you're not really in-game and bypasses the AFK timer.
 </details>
 
 ## Ban Times and Punishments Table
