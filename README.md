@@ -1,10 +1,10 @@
-# RileyCraft
+# CloudCityMC
 
-IP: mc.rileycraft.tk
+IP: mc.cloudcitymc.us
 
 [Chat on IRC!](irc)
 
-### Report ANY bugs or exploits in the [issues](http://github.com/rileycraft/rileycraft.github.io/issues/new)!
+### Report ANY bugs or exploits in the [issues](http://github.com/CloudCityMC/cloudcitymc.github.io/issues/new)!
 #### You WILL be rewarded.
 
 <table>
@@ -21,7 +21,7 @@ IP: mc.rileycraft.tk
     <td><a href="CHANGELOG">Changelog</a></td>
   </tr>
   <tr>
-    <td><a href="http://github.com/RileyCraft/rileycraft.github.io/issues/new">Report an Issue</a></td>
+    <td><a href="http://github.com/CloudCityMC/cloudcitymc.github.io/issues/new">Report an Issue</a></td>
   </tr>
   <tr>
     <td><a href="http://feedback.rileycraft.tk">Suggest Something!</a></td>

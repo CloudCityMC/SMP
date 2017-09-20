@@ -1,12 +1,12 @@
-# Official RileyCraft Terms and Conditions
+# Official CloudCityMC Terms and Conditions
 
 Effective September 1, 2017.
 
-[Click to view modifications](https://github.com/RileyCraft/rileycraft.github.io/commits/master/terms.md).
+[Click to view modifications](https://github.com/CloudCityMC/cloudcitymc.github.io/commits/master/terms.md).
 
-By playing on RileyCraft you agree to the following:
+By playing on CloudCityMC you agree to the following:
 
-1) That you will follow the rules listed [here](/rules). 
+1) That you will follow the rules listed [here](/rules).
 
 2) That you will not use glitches that you (the player) or another player has discovered. They must be reported immediantly.
 
@@ -24,7 +24,6 @@ Failure to follow these conditions will result one or more of the following:
 
 2) Restrictions to specific parts of the server.
 
-**If you do not agree to the RileyCraft Terms and Conditions, then you cannot play on the server.**
+**If you do not agree to the CloudCityMC Terms and Conditions, then you cannot play on the server.**
 
-We accept changes! Head to the [PR section](https://github.com/RileyCraft/rileycraft.github.io/pulls) of the GitHub to modify the document.
-
+We accept changes! Head to the [PR section](https://github.com/CloudCityMC/cloudcitymc.github.io/pulls) of the GitHub to modify the document.

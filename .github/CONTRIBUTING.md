@@ -1,4 +1,4 @@
-# RileyCraft GitHub Guidelines
+# CloudCityMC GitHub Guidelines
 
 Here you can report issues about the server.
 
@@ -13,11 +13,11 @@ Rules for all types of posts:
 
 ## GitHub Issues
 
-### Posting a Suggestion in the issues will make it CLOSED IMMEDIANTLY! Please use our new [feedback site](http://feedback.rileycraft.tk)
+### Posting a Suggestion in the issues will make it CLOSED IMMEDIATELY! Please use our new [feedback site](http://feedback.rileycraft.tk)
 
 Rules for posting an Issue on GitHub:
 
-1. This Issue Section is ONLY for RileyCraft related issues, issues about other servers should not be posted here.
+1. This Issue Section is ONLY for CloudCityMC related issues, issues about other servers should not be posted here.
 2. Check other issues before posting to make sure you are not posting a duplicate.
 3. Do not put any tags inside your title like [IMPORTANT], [URGENT] or [SUGGESTION]. Try to be professional by making your title as short as possible, we will assign it the required labels if necessary.
 4. Do not post your issue more than once, this is considered spam and does not benefit our community in any way. Do not repost your issue if it was closed either.

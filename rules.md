@@ -1,4 +1,4 @@
-# Official RileyCraft Rules
+# Official CloudCityMC Rules
 
 ### Click on the drop down arrow for more information.
 
@@ -39,7 +39,7 @@ Disrespecting staff in any way, such as accusing them of abuse, hacking, breakin
 If an IP is said in chat, the mute AND ban chart will be bypassed and a ban will be issued. If a server name is said in chat, a mute chart mute will be issued. If a user is convincing people to go to that server (e.g. "Hey wanna join mineplex?") may result in a ban chart ban.
 
 <details><summary>Better Explanation</summary>
-Discussing other servers without saying their name is okay. "Wanna play mine-strike with me?" is ok. "Wanna play mine-strike ON MINEPLEX!??! with me" is not ok. The bannable offense is when you convince others to join you on a specific server. "Come join me on mineplex!" Will result in a ban chart ban. "This server sucks!! MINEPLEX &gt; RILEYCRAFT" is a definite permanent ban.
+Discussing other servers without saying their name is okay. "Wanna play mine-strike with me?" is ok. "Wanna play mine-strike ON MINEPLEX!??! with me" is not ok. The bannable offense is when you convince others to join you on a specific server. "Come join me on mineplex!" Will result in a ban chart ban. "This server sucks!! MINEPLEX IS BETTER THAN CLOUDCITY" is a definite permanent ban.
 </details>
 </details>
 
