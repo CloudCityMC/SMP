@@ -4,6 +4,8 @@ IP: mc.cloudcitymc.us
 
 [Chat on IRC!](irc)
 
+[Donate to help keep the server running!](http://store.cloudcitymc.us/)
+
 ## Report ANY bugs or exploits in the [issues](http://github.com/CloudCityMC/cloudcitymc.github.io/issues/new)!
 
 ### You WILL be rewarded.
