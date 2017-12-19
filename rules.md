@@ -5,7 +5,7 @@
 ## Chat Rules
 
 <details><summary>No Hackusating</summary>
-This means: Accusing a player of hacking (having an unfair advantage) is against the rules. If you believe someone is hacking, tell the staff immediately, if no one is on, feel free to mention Chew just by saying "Chew" in chat.
+This means: Accusing a player of hacking (having an unfair advantage) is against the rules. If you believe someone is hacking, tell the staff immediately, if no one is on, feel free to mention Rylea (Chew) just by saying "Rylea" in chat, or Soarn just by saying "Saorn" in chat.
 </details>
 
 <details><summary>No Death Wishes</summary>
