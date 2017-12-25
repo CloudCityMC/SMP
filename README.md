@@ -8,7 +8,7 @@ IP: mc.cloudcitymc.us
 
 [Donate to help keep the server running!](http://store.cloudcitymc.us/)
 
-<p font-size="300%">Report ANY bugs or exploits in the [issues](http://github.com/CloudCityMC/SMP/issues/new)! <br>You WILL be rewarded.</p>
+<p font-size="300%">Report ANY bugs or exploits in the <a href="http://github.com/CloudCityMC/SMP/issues/new">issues</a>! <br>You WILL be rewarded.</p>
 
 | Useful Links
 | ---------------------------------------------------------------------------------
