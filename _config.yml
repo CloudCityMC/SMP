@@ -3,3 +3,4 @@ theme:          jekyll-theme-slate
 title:          CloudCityMC
 description:    Welcome to CloudCityMC!
 show_downloads: false
+homebutton: <a href="http://cloudcitymc.us">⌂</a> Back Home
