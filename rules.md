@@ -3,9 +3,6 @@
 ### Click on the drop down arrow for more information.
 
 ## Chat Rules
-<details><summary>Use Correct Grammar</summary>
-This means: You can make up to 5 grammar mistake in a 24 hour period before being muted for 30 minutes.
-</details>
 
 <details><summary>No Hackusating</summary>
 This means: Accusing a player of hacking (having an unfair advantage) is against the rules. If you believe someone is hacking, tell the staff immediately, if no one is on, feel free to mention Chew just by saying "Chew" in chat.
@@ -52,6 +49,12 @@ Pretending you are someone else will result in a ban.
 
 <details><summary>No selling stuff outside of the server.</summary>
 (like alts, your merch, etc) will bypass the ban chart and result in a permanent ban.
+</details>
+
+### Staff Chat Rules
+
+<details><summary>Use Correct Grammar</summary>
+This means: You can make up to 5 grammar mistake in a 24 hour period before being muted for 30 minutes.
 </details>
 
 ## Playing Rules
