@@ -51,6 +51,12 @@ Pretending you are someone else will result in a ban.
 (like alts, your merch, etc) will bypass the ban chart and result in a permanent ban.
 </details>
 
+### Staff Chat Rules
+
+<details><summary>Use Correct Grammar</summary>
+This means: You can make up to 5 grammar mistake in a 24 hour period before being muted for 30 minutes.
+</details>
+
 ## Playing Rules
 
 All rules except rule 1 go immediately to the ban chart.
