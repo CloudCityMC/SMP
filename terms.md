@@ -8,9 +8,11 @@ By playing on CloudCityMC you agree to the following:
 
 1) That you will follow the rules listed [here](/rules).
 
-2) That you will not use glitches that you (the player) or another player has discovered. They must be reported immediantly.
+2) That you will not use glitches that you (the player) or another player has discovered. They must be reported immediately.
 
 3) That you will not leak or try to find ways to discover the server's plugin list.
+
+4) All commands will be logged and stored for statistic purposes, but only the command will be logged, not the sender or any arguments.
 
 You also understand:
 
@@ -26,4 +28,4 @@ Failure to follow these conditions will result one or more of the following:
 
 **If you do not agree to the CloudCityMC Terms and Conditions, then you cannot play on the server.**
 
-We accept changes! Head to the [PR section](https://github.com/CloudCityMC/cloudcitymc.github.io/pulls) of the GitHub to modify the document.
+We accept changes! Head to the [PR section](https://github.com/CloudCityMC/Global/pulls) of the GitHub to modify the document.
