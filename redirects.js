@@ -1,4 +1,4 @@
-var href = window.location.href.substring(22);
+var href = window.location.href.substring(23);
 if (href == "vote") {
   window.location = "http://https://forums.cloudcitymc.us/threads/official-server-vote-links.5/";
 }
