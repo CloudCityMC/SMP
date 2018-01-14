@@ -12,13 +12,13 @@ By playing on CloudCityMC you agree to the following:
 
 3) That you will not leak or try to find ways to discover the server's plugin list.
 
-4) All commands will be logged and stored for statistic purposes, but only the command will be logged, not the sender or any arguments.
-
 You also understand:
 
 1) The rules can be changed at any time with or without notice.
 
 2) That the Terms and Conditions can be changed at any time with or without notice.
+
+3) All commands will be logged and stored for statistic purposes, but only the command will be logged, not the sender or any arguments.
 
 Failure to follow these conditions will result one or more of the following:
 
