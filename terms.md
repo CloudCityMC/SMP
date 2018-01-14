@@ -8,7 +8,7 @@ By playing on CloudCityMC you agree to the following:
 
 1) That you will follow the rules listed [here](/rules).
 
-2) That you will not use glitches that you (the player) or another player has discovered. They must be reported immediately.
+2) That you will not use glitches that you (the player) or another player has discovered. They must be reported immediately.  You can report bugs [here](https://github.com/CloudCityMC/Global/issues/new).
 
 3) That you will not leak or try to find ways to discover the server's plugin list.
 
