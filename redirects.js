@@ -1,6 +1,6 @@
 var href = window.location.pathname;
 if (href == "/vote") {
-  window.location = "https://https://forums.cloudcitymc.us/threads/official-server-vote-links.5/";
+  window.location = "https://forums.cloudcitymc.us/threads/official-server-vote-links.5/";
 }
 if (href == "/report") {
   window.location = "https://forums.cloudcitymc.us/forums/report-players.10/";
