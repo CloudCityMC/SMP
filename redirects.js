@@ -11,4 +11,4 @@ if (href == "/sell") {
 if (href == "/shop") {
   window.location = "https://forums.cloudcitymc.us/threads/items-that-should-be-sold-in-the-shop.10/";
 }
-window.location = "http://cloudcitymc.us";
+//window.location = "http://cloudcitymc.us";
