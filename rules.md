@@ -15,7 +15,7 @@ Death wishes (or "preferring", or "suggesting") are strictly forbidden. Saying t
 <details><summary>Racism/Sexual misconduct is not allowed</summary>
 Saying stuff like "omg i hate girls, too fat" will result in mute. This is mostly assumed but severe conducts are immediately muted.
 <details><summary>EXPLICIT: Examples</summary>
-Saying terms like "niggers should die" or "I hate jews, they should all burn" WILL RESULT IN A BAN! Severe cases like this will be punished severly.
+Saying terms like "niggers should die" or "I hate jews, they should all burn" WILL RESULT IN A BAN! Severe cases like this will be punished severely.
 </details></details>
 
 <details><summary>Do not bypass a punishment</summary>
@@ -36,7 +36,7 @@ Disrespecting staff in any way, such as accusing them of abuse, hacking, breakin
 </details>
 
 <details><summary>ABSOLUTELY NO ADVERTISING</summary>
-If an IP is said in chat, the mute AND ban chart will be bypassed and a ban will be issued. If a server name is said in chat, a mute chart warning will be issued. If a user is convincing people to go to that server (e.g. "Hey wanna join mineplex?") may result in a mute chart ban. 
+If an IP is said in chat, the mute AND ban chart will be bypassed and a ban will be issued. If a server name is said in chat, a mute chart warning will be issued. If a user is convincing people to go to that server (e.g. "Hey wanna join mineplex?") may result in a mute chart ban.
 
 <details><summary>Better Explanation</summary>
 Discussing other servers without saying their name is okay. "Wanna play mine-strike with me?" is ok. "Wanna play mine-strike ON MINEPLEX!??! with me" is not ok. The bannable offense is when you convince others to join you on a specific server. "Come join me on mineplex!" Will result in a ban chart ban. "This server sucks!! MINEPLEX IS BETTER THAN CLOUDCITY" is a definite permanent ban.
