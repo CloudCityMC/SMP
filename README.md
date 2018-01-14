@@ -18,7 +18,7 @@ IP: mc.cloudcitymc.us
 | [View the Rules](rules)
 | [Terms and Conditions](terms)
 | [Useful Commands](UsefulCommands)
-| [Changelog](CHANGELOG)
+| [Changelog](https://forums.cloudcitymc.us/forums/news/?prefix_id=1)
 | [Report an Issue](http://github.com/CloudCityMC/cloudcitymc.github.io/issues/new)
 | [Suggest Something!](http://feedback.cloudcitymc.us)
 | [Server Shop](http://store.cloudcitymc.us)
