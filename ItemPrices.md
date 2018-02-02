@@ -103,7 +103,8 @@ Diamond Leggings      | 312     | $57344  | No
 Diamond Boots         | 313     | $32768  | No
 Coal                  | 263     | $128    | Yes
 Redstone              | 331     | $64     | Yes
-Redstone Torch        | 76      | 68      | No
+Redstone Torch        | 76      | $68     | No
+Redstone Block        | 152     | $576    | No
 Lapis                 | 351:4   | $864    | Yes
 Emerald               | 388     | $16384  | Yes
 Ink Sac               | 351     | $16     | No
@@ -207,6 +208,8 @@ End Crystal           | 426     | $5895   | No
 Shulker Shell         | 450     | $2048   | No
 Lilypad               | 111     | $16     | No
 Iron Trapdoor         | 167     | $2048   | No
+Flint and Steel       | 259     | $260    | No
+Anvil                 | 145     | $7936   | No
 Raw Beef              | 363     | $64     | No
 Flint                 | 318     | $4      | No
 Raw Porkchop          | 319     | $64     | No
