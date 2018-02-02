@@ -21,6 +21,7 @@ Oak Log               | 17      | $32     | No
 Spruce Log            | 17:1    | $32     | No
 Birch Log             | 17:2    | $32     | No
 Jungle Log            | 17:3    | $32     | No
+Dark Oak Log          | 162:1   | $32     | No
 White Wool            | 35      | $48     | No
 Orange Wool           | 35:1    | $64     | No
 Magenta Wool          | 35:2    | $64     | No
