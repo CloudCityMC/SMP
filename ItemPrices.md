@@ -149,7 +149,7 @@ Gunpowder             | 289     | $192    | Yes
 Rails                 | 66      | $96     | No
 Egg                   | 344     | $32     | No
 Dandelion             | 37      | $16     | No
-Obsidian              | 49      | $64     | No
+Obsidian              | 49      | $64     | Yes
 Dirt                  | 3       | $1      | No
 Lever                 | 69      | $5      | No
 Cake                  | 354     | $216    | No
