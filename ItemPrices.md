@@ -7,11 +7,8 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 
 <input type="text" id="findblocks" onkeyup="searchTable(0, 'findblocks')" placeholder="Search by Item">
-
 <input type="text" id="findids" onkeyup="searchTable(1, 'findids')" placeholder="ID">
-
 <input type="text" id="findprice" onkeyup="searchTable(2, 'findprice')" placeholder="Price">
-
 <input type="text" id="findbuy" onkeyup="searchTable(3, 'findbuy')" placeholder="Buyable">
 
 {:#blocks}
