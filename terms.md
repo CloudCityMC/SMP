@@ -2,7 +2,7 @@
 
 Effective September 1, 2017.
 
-[Click to view modifications](https://github.com/CloudCityMC/cloudcitymc.github.io/commits/master/terms.md).
+[Click to view modifications](https://github.com/CloudCityMC/SMP/commits/master/terms.md).
 
 By playing on CloudCityMC you agree to the following:
 
@@ -28,4 +28,4 @@ Failure to follow these conditions will result one or more of the following:
 
 **If you do not agree to the CloudCityMC Terms and Conditions, then you cannot play on the server.**
 
-We accept changes! Head to the [PR section](https://github.com/CloudCityMC/Global/pulls) of the GitHub to modify the document.
+We accept changes! Head to the [PR section](https://github.com/CloudCityMC/SMP/pulls) of the GitHub to modify the document.
