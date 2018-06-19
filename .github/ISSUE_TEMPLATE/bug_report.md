@@ -1,18 +1,35 @@
-1) Where did you find this bug? <!-- Ingame, online, etc. (Note, if the bug is a missing URL, it is technically online, but report how you got to the link) -->
+---
+name: Bug report
+about: Create a report to help us improve
 
+---
 
-2) Screenshots/Videos showing the bug. <!-- The *entire* minecraft/web browser screen is needed. Feel free to cover any info you don't want revealed. Usually only a screenshot is needed and no other info is needed, but fill out the rest anyway. -->
+**Describe the bug**
+A clear and concise description of what the bug is.
 
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
 
-3) _Brief_ explanation of the bug. <!-- We need it brief, no need to over-complicate it -->
+**Expected behavior**
+A clear and concise description of what you expected to happen.
 
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
 
-4) Steps to reproduce the bug <!-- (i.e. how you got the bug) -->
+**Desktop (please complete the following information):**
+ - OS: [e.g. iOS]
+ - Browser [e.g. chrome, safari]
+ - Version [e.g. 22]
 
+**Smartphone (please complete the following information):**
+ - Device: [e.g. iPhone6]
+ - OS: [e.g. iOS8.1]
+ - Browser [e.g. stock browser, safari]
+ - Version [e.g. 22]
 
-<!-- *The rest are just "survey" questions and do not need to be answered.* -->
-
-5) What is your MC IGN?
-
-
-6) How did you come across the bug? Were you searching for it?
+**Additional context**
+Add any other context about the problem here.
